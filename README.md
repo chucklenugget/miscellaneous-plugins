@@ -1,0 +1,1 @@
+A series of small plugins that contribute to the quality of life on a Rust server.
